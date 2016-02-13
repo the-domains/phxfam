@@ -1,0 +1,28 @@
+name: PHXFam
+favicon: null
+layout_spectrum: 0.686764762038365
+typography_spectrum: 0.038929107366129756
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4711415928322822
+  lightness: 0.9761227103881538
+  saturation: 0.77203330071643
+  rhythmicContrast: 0.3649831684306264
+purpose: []
